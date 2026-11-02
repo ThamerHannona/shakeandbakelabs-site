@@ -12,3 +12,6 @@ h2{font-weight:900;font-size:22px;margin:32px 0 8px}
 .tag{display:inline-block;background:var(--lav);color:var(--ink);font-weight:700;border-radius:999px;padding:2px 12px;font-size:14px}
 details{background:#fff;border-radius:18px;padding:14px 18px;margin:10px 0}summary{font-weight:900;cursor:pointer}
 footer{margin-top:48px;font-size:14px;color:#4a4b66}
+.tag.live{background:var(--mag);color:#fff}
+.btn.appstore{background:#000;line-height:1.1;padding:10px 24px;font-size:22px}.btn.appstore small{display:block;font-size:12px;font-weight:700}
+.shots{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 0 12px}.shots img{flex:0 0 auto;width:180px;height:auto;border-radius:18px;scroll-snap-align:start;box-shadow:0 4px 14px rgba(20,21,47,.18)}
